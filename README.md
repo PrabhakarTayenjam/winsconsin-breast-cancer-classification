@@ -16,8 +16,8 @@ Classification of breast cancer as **malignant (1)** or **benign (0)**
 ---
 
 ## c. GitHub Repository Link
-- **GitHub Repository:** [Insert Your GitHub Repository Link Here]
-- **Live Streamlit App:** [Insert Your Deployed Streamlit App Link Here]
+- **GitHub Repository:** [https://github.com/PrabhakarTayenjam/winsconsin-breast-cancer-classification/]
+- **Live Streamlit App:** [https://winsconsin-breast-cancer-classification-gdr3uire9iafouridje67m.streamlit.app/]
 
 ---
 
