@@ -1,11 +1,11 @@
 # Breast Cancer Wisconsin Classification
 
-## a. Problem Statement
+## Problem Statement
 Classification of breast cancer as **malignant (1)** or **benign (0)**
 
 ---
 
-## b. Dataset Description
+## Dataset Description
 - **Dataset Name:** Breast Cancer Wisconsin (Diagnostic) Dataset
 - **Source:** UCI Machine Learning Repository / Kaggle
 - **Total Instances:** 569 instances
@@ -15,15 +15,15 @@ Classification of breast cancer as **malignant (1)** or **benign (0)**
 
 ---
 
-## c. GitHub Repository Link
+## GitHub Repository Link
 - **GitHub Repository:** [https://github.com/PrabhakarTayenjam/winsconsin-breast-cancer-classification/]
 - **Live Streamlit App:** [https://winsconsin-breast-cancer-classification-gdr3uire9iafouridje67m.streamlit.app/]
 
 ---
 
-## d. Models Used & Comparison Table
+## Models Used & Comparison Table
 
-### 1. Performance Evaluation Metrics Table
+### Performance Evaluation Metrics Table
 
 | ML Model Name | Accuracy | AUC | Precision | Recall | F1 | MCC |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -35,13 +35,13 @@ Classification of breast cancer as **malignant (1)** or **benign (0)**
 
 ---
 
-### 2. Model Performance Observations
+### Model Performance Observations
 
 | ML Model Name | Observation about model performance |
 | :--- | :--- |
 | **Logistic Regression** | Achieved high overall performance in all metrics |
 | **Decision Tree** | Low performance in all metrics compared to other models |
-| **KNN** | High permormance in other metrics but low recall value (0.9048) |
+| **KNN** | High performance in other metrics but low recall value (0.9048) |
 | **Naive Bayes** | Low performance and lowest recall value (0.8810) |
-| **Support Vector Machine** | High performace in all metrics but recall is lower than Logistic Regression |
-| **Overall Winner for your dataset?** | **Logistic Regression** is the overall winner for this dataset, achieving top performance in all metrics and the **highest recall vallue (0.9762)**. High recall is particularly critical in medical classification to minimize false negatives. |
+| **Support Vector Machine** | High performance in all metrics but recall is lower than Logistic Regression |
+| **Overall Winner for your dataset?** | **Logistic Regression** is the overall winner for this dataset, achieving top performance in all metrics and the **highest recall value (0.9762)**. High recall is particularly critical in medical classification to minimize false negatives. |
